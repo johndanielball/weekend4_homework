@@ -1,0 +1,12 @@
+input:not([type="image"]), textarea {
+  background-color: ivory;
+}
+
+label {
+  cursor: e-resize;
+  color: midnightblue;
+}
+
+table {
+  color: midnightblue;
+}
